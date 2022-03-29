@@ -1277,6 +1277,11 @@
             "https://molereum.jdubedition.com"
         ],
         "websiteDead":true
+    },
+    "21004":{
+        "rpcs":[
+            "https://rpc.c4ei.net"
+        ]
     }
 }
 
