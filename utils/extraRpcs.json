@@ -961,6 +961,11 @@
             "https://explorer.energi.network/api/eth-rpc"
         ]
     },
+    "21004":{
+        "rpcs":[
+        "https://rpc.c4ei.net"
+        ]
+    },
     "42069":{
         "rpcs":[
             "rpcWorking:false"
